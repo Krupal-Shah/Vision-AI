@@ -1,6 +1,6 @@
 # Vision AI
 
-This is a Python Project that uses the camera and detects the number of objects in it, what it is and also provides an audio feedback of what it is. 
+This is a Python Project that uses the camera and detects the number of objects in it, what it is and also provides audio feedback of what it is. 
 
 This projects main aim is to help the visually disabled by helping them as a guider in the times of need and also prevents any unfortunate incidents. 
 
