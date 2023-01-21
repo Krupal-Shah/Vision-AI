@@ -20,6 +20,9 @@ pip install cv2
 pip install gtts
 ```
 
+Also download the following file in the same repository where all the other files are saved.
+https://drive.google.com/file/d/14FuHtqZke94_9XkHnIQcla9m3sxOm-Nx/view?usp=sharing
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
